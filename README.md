@@ -34,20 +34,20 @@ Departments with lower weekly sales tend to receive a higher number of markdowns
 - MSE = 205389360.0 
 - MAE = 9281.67 
 - $R^2$ = 0.6088
-- Adjusted R^2 = 0.6070
+- $Adjusted R^2$ = 0.6070
 
 > ### TRAIN XGBOOST USING SAGEMAKER
 
 - RMSE = 7872.68
 - MSE = 61979064.0 
 - MAE = 4380.04
-- R2 = 0.8819
-- Adjusted R2 = 0.8814
+- $R^2$ = 0.8819
+- $Adjusted R^2$ = 0.8814
 
 > ### PERFORM HYPERPARAMETERS OPTIMIZATION
 
 - RMSE = 4266.01 
 - MSE = 18198860.0 
 - MAE = 1811.64 
-- R2 = 0.9638 
-- Adjusted R2 = 0.9637
+- $R^2$ = 0.9638 
+- $Adjusted R^2$ = 0.9637
