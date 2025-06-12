@@ -24,3 +24,18 @@ Data Source : https://www.kaggle.com/manjeetsingh/retaildataset
 ### Exploratory Data Analysis 
 
 Departments with lower weekly sales tend to receive a higher number of markdowns. For example, this pattern is evident in stores 77 and 99. 
+
+
+### Build the Models
+
+TRAIN XGBOOST REGRESSOR IN LOCAL MODE
+
+TRAIN XGBOOST USING SAGEMAKER
+
+PERFORM HYPERPARAMETERS OPTIMIZATION
+
+RMSE = 4266.012 
+MSE = 18198860.0 
+MAE = 1811.6404 
+R2 = 0.9638345632190437 
+Adjusted R2 = 0.9636760184661681
