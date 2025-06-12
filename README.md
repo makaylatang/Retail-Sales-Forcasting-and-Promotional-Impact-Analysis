@@ -33,7 +33,7 @@ Departments with lower weekly sales tend to receive a higher number of markdowns
 - RMSE = 14331.41 
 - MSE = 205389360.0 
 - MAE = 9281.67 
-- R^2 = 0.6088
+- $R^2$ = 0.6088
 - Adjusted R^2 = 0.6070
 
 > ### TRAIN XGBOOST USING SAGEMAKER
