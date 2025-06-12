@@ -1,13 +1,13 @@
 # Retail-Sales-Forcasting-and-Promotional-Impact-Analysis
 
-### Objective
+## Objective
 
 🌟 Our aim is to forecast weekly sales from a particular department.
 
 🌟 The objective of this case study is to forecast weekly retail store sales based on historical data.
 
 
-### Datasets
+## Datasets
 
 - This dataset contains weekly sales from 99 departments belonging to 45 different stores.
   
@@ -21,21 +21,21 @@
 Data Source : https://www.kaggle.com/manjeetsingh/retaildataset
 
 
-### Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 Departments with lower weekly sales tend to receive a higher number of markdowns. For example, this pattern is evident in stores 77 and 99. 
 
 
-### Build the Models
+## Build XGBoost Models
 
-TRAIN XGBOOST REGRESSOR IN LOCAL MODE
+> TRAIN XGBOOST REGRESSOR IN LOCAL MODE
 
-TRAIN XGBOOST USING SAGEMAKER
+> TRAIN XGBOOST USING SAGEMAKER
 
-PERFORM HYPERPARAMETERS OPTIMIZATION
+> PERFORM HYPERPARAMETERS OPTIMIZATION
 
-RMSE = 4266.012 
-MSE = 18198860.0 
-MAE = 1811.6404 
-R2 = 0.9638345632190437 
-Adjusted R2 = 0.9636760184661681
+- RMSE = 4266.012 
+- MSE = 18198860.0 
+- MAE = 1811.6404 
+- R2 = 0.9638345632190437 
+- Adjusted R2 = 0.9636760184661681
