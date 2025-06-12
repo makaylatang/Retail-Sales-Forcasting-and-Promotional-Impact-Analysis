@@ -30,18 +30,24 @@ Departments with lower weekly sales tend to receive a higher number of markdowns
 
 > ### TRAIN XGBOOST REGRESSOR IN LOCAL MODE
 
-- RMSE = 14331.412 
+- RMSE = 14331.41 
 - MSE = 205389360.0 
-- MAE = 9281.666015625 
-- R^2 = 0.6087504029273987 
-- Adjusted R^2 = 0.6070352136140146
+- MAE = 9281.67 
+- R^2 = 0.6088
+- Adjusted R^2 = 0.6070
 
 > ### TRAIN XGBOOST USING SAGEMAKER
 
+- RMSE = 7872.68
+- MSE = 61979064.0 
+- MAE = 4380.04
+- R2 = 0.8819
+- Adjusted R2 = 0.8814
+
 > ### PERFORM HYPERPARAMETERS OPTIMIZATION
 
-- RMSE = 4266.012 
+- RMSE = 4266.01 
 - MSE = 18198860.0 
-- MAE = 1811.6404 
-- R2 = 0.9638345632190437 
-- Adjusted R2 = 0.9636760184661681
+- MAE = 1811.64 
+- R2 = 0.9638 
+- Adjusted R2 = 0.9637
