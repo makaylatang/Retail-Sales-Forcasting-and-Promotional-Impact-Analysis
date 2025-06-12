@@ -7,7 +7,7 @@
 🌟 The objective of this case study is to forecast weekly retail store sales based on historical data.
 
 
-### Dataset
+### Datasets
 
 - This dataset contains weekly sales from 99 departments belonging to 45 different stores.
   
@@ -20,3 +20,7 @@
 
 Data Source : https://www.kaggle.com/manjeetsingh/retaildataset
 
+
+### Exploratory Data Analysis 
+
+Departments with lower weekly sales tend to receive a higher number of markdowns. For example, this pattern is evident in stores 77 and 99. 
