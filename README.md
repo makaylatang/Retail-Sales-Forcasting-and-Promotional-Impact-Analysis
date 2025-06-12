@@ -28,7 +28,7 @@ Departments with lower weekly sales tend to receive a higher number of markdowns
 
 ## Build XGBoost Models
 
-> TRAIN XGBOOST REGRESSOR IN LOCAL MODE
+> ## TRAIN XGBOOST REGRESSOR IN LOCAL MODE
 
 > TRAIN XGBOOST USING SAGEMAKER
 
